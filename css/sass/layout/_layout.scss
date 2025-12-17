@@ -1,0 +1,8 @@
+.container {
+    user-select: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: $spacing-large;
+    min-height: 100vh;
+}
